@@ -35,7 +35,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | Checksums                             |
 | --------------------------------- | ------------------------------------- |
-| Xcode 11.4 beta 3<br>11N132i<br>macOS 10.15.2+<br>[Xcode_11.4_beta_3.xip][11.4 beta 3] | `SHA1=6fdfcf4e915fa54cfffba828fb5f314caeb37b13`<br>`SHA256=abe0dcfc743fb63acd15b52725ee4334c5281caa46dfb890dc36b3817a026abc` | 
+| Xcode 11.4 beta 3<br>11N132i<br>macOS 10.15.2+<br>[Xcode_11.4_beta_3.xip][11.4 beta 3] | `SHA1= 6fdfcf4e915fa54cfffba828fb5f314caeb37b13`<br>`SHA256= abe0dcfc743fb63acd15b52725ee4334c5281caa46dfb890dc36b3817a026abc` | 
 
 
  [1.0]: https://developer.apple.com/devcenter/download.action?path=/Mac_OS_X/Mac_OS_X_10.3_Build_7B85/7B85_Xcode_CD.dmg
