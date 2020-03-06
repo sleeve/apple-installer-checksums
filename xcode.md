@@ -37,7 +37,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 | --------------------------------- | --------------------------------- |
 | Xcode 11.4 beta 3 (11N132i)<br>macOS 10.15.2+<br>[Xcode_11.4_beta_3.xip][11.4 beta 3] | `MD5= 09310782f54df63954cf593e34b4355e`<br>`SHA1= 6fdfcf4e915fa54cfffba828fb5f314caeb37b13`<br>`SHA256= abe0dcfc743fb63acd15b52725ee4334c5281caa46dfb890dc36b3817a026abc`
 | Xcode 11.4 beta 2 (11N123k)<br>macOS 10.15.2+<br>[Xcode_11.4_beta_2.xip][11.4 beta 2] | `MD5= 839559f1f9c16c5f930cf58f5659b6a5`<br>`SHA1= a55e450133c2d49e1986f33026768fe8dbb223aa`<br>`SHA256= 0b466ce26b9982c61b1d1650b2ba5d59fc5eed82bb9ccf15c8ce45ab7146848d`
-
+| Xcode 11.4 beta (11N111s)<br>macOS 10.15.2+<br>[Xcode_11.4_beta.xip][11.4 beta] | `MD5= 32201e27103b28dca071aac990879d70`<br>`SHA1= 14e4e508734112a8f582d58651e1b0459bc575ec`<br>`SHA256= fa9a89b96f8dc489fc8fbb5d39123db8b7290b41f57de88137d5a9783a5f710d`
 
  [1.0]: https://developer.apple.com/devcenter/download.action?path=/Mac_OS_X/Mac_OS_X_10.3_Build_7B85/7B85_Xcode_CD.dmg
  [1.5]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/xcode_v1.5/xcode_tools_1.5_cd.dmg.bin
