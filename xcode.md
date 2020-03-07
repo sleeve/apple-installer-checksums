@@ -34,7 +34,7 @@ Do you have access to old versions of Xcode that you know are legit? Submit some
 
 | Version                           | Hashes                            |
 | --------------------------------- | --------------------------------- |
-| Xcode 11.4 beta 3 (11N132i)<br>macOS 10.15.2+<br>[Release Notes][11.4 beta 3 notes] | [Xcode_11.4_beta_3.xip][11.4 beta 3]<br>`MD5= 09310782f54df63954cf593e34b4355e`<br>`SHA1= 6fdfcf4e915fa54cfffba828fb5f314caeb37b13`<br>`SHA256= abe0dcfc743fb63acd15b52725ee4334c5281caa46dfb890dc36b3817a026abc`
+| [Xcode 11.4 beta 3 (11N132i)][11.4 beta 3]<br>macOS 10.15.2+<br>[Release Notes][11.4 beta 3 notes] | `Xcode_11.4_beta_3.xip`<br>`MD5= 09310782f54df63954cf593e34b4355e`<br>`SHA1= 6fdfcf4e915fa54cfffba828fb5f314caeb37b13`<br>`SHA256= abe0dcfc743fb63acd15b52725ee4334c5281caa46dfb890dc36b3817a026abc`
 | Xcode 11.4 beta 2 (11N123k)<br>[Xcode_11.4_beta_2.xip][11.4 beta 2]<br>macOS 10.15.2+ | `MD5= 839559f1f9c16c5f930cf58f5659b6a5`<br>`SHA1= a55e450133c2d49e1986f33026768fe8dbb223aa`<br>`SHA256= 0b466ce26b9982c61b1d1650b2ba5d59fc5eed82bb9ccf15c8ce45ab7146848d`
 | Xcode 11.4 beta (11N111s)<br>[Xcode_11.4_beta.xip][11.4 beta]<br>macOS 10.15.2+ | `MD5= 32201e27103b28dca071aac990879d70`<br>`SHA1= 14e4e508734112a8f582d58651e1b0459bc575ec`<br>`SHA256= fa9a89b96f8dc489fc8fbb5d39123db8b7290b41f57de88137d5a9783a5f710d`
 | Xcode 11.3.1 (11C505)<br>[Xcode_11.3.1.xip][11.3.1]<br>macOS 10.14.4-10.15 | `MD5= 2bb49fa23d16a3ce8a44629609da0a75`<br>`SHA1= d5773e61189595cbb639c3e1c460b38d8c1e19ae`<br>`SHA256= 9a92379b90734a9068832f858d594d3c3a30a7ddc3bdb6da49c738aed9ad34b5`
