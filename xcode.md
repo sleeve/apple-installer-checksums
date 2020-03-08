@@ -39,7 +39,7 @@ Do you have access to old versions of Xcode that you know are legit? Submit some
 | [Xcode 11.4 beta (11N111s)][11.4 beta]<br>Xcode_11.4_beta.xip<br>macOS 10.15.2<br>[Release Notes][11.4 beta notes] | `MD5= 32201e27103b28dca071aac990879d70`<br>`SHA1= 14e4e508734112a8f582d58651e1b0459bc575ec`<br>`SHA256= fa9a89b96f8dc489fc8fbb5d39123db8b7290b41f57de88137d5a9783a5f710d`
 | [Xcode 11.3.1 (11C505)][11.3.1]<br>Xcode_11.3.1.xip<br>macOS 10.14.4-10.15<br>[Release Notes][11.3.1 notes] | `MD5= 2bb49fa23d16a3ce8a44629609da0a75`<br>`SHA1= d5773e61189595cbb639c3e1c460b38d8c1e19ae`<br>`SHA256= 9a92379b90734a9068832f858d594d3c3a30a7ddc3bdb6da49c738aed9ad34b5`
 | [Xcode 2.3][2.3]<br>xcode_2.3_8m1780<br>_oz693620813.dmg<br>Mac OS X 10.4<br>[Release Notes][2.3 notes] | `MD5= b35cee02a75d12d18da80bbf0857d847`<br>`SHA1= aa768c0fb979eeb11c29f177f68c763fab14ea3f`<br>`SHA256= 58a6ad87700705f79b46c5b16e131166701d096cfa06a5cfdf3aa4d283a4d9e1`
-| [Xcode 1.5][1.5]<br>XcodeTools1.5__CD.dmg<br>Mac OS X 10.3<br>[Release Notes][1.5 notes] | `MD5= db44a79204ca3d35c25b67822cd20411`<br>`SHA1= 8791a663a35609f6e991f68f48f47f7ea1409fc7`<br>`SHA256= 3bf7d26fbc135c8fdf6c09d2500f17ba1739219ac86210dfb42d4c800bfebb1e`
+| [Xcode Tools 1.5][1.5]<br>XcodeTools1.5__CD.dmg<br>Mac OS X 10.3<br>[Release Notes][1.5 notes] | `MD5= db44a79204ca3d35c25b67822cd20411`<br>`SHA1= 8791a663a35609f6e991f68f48f47f7ea1409fc7`<br>`SHA256= 3bf7d26fbc135c8fdf6c09d2500f17ba1739219ac86210dfb42d4c800bfebb1e`
 | [Xcode Tools 1.0 (7B85)][1.0]<br>7B85_Xcode_CD.dmg<br>Mac OS X 10.3<br>***Release Notes*** | `MD5= f580ef559be1e1ca728d8c5ad8828d4a`<br>`SHA1= 819faddc921e8e396fce003100c67d8b4e675ab0`<br>`SHA256= 10434818375f89dc04d976b176d274169de91e7854bb96445ff56ce9ec752710`
 
 <!-- Xcode image/archive links -->
